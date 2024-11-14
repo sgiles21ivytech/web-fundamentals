@@ -1,0 +1,33 @@
+#search {
+    height: 25px;
+    width: 125px;
+    border-radius: 20px;
+    border: 2px solid;
+    color: rgb(18, 157, 110);
+    font-weight: bold;
+    
+}
+
+#Add {
+    height: 30px;
+    width: 30px;
+    border: 2px solid;
+    font-weight: bold;
+    font-size: medium;
+    border-radius: 50px;
+    color: white;
+    background-color: turquoise;
+}
+
+#create {
+    height: 35px;
+    width: 165px;
+    border: 2px black;
+    box-shadow: 5px 5px black,-1em 0 .4em;
+    color: white;
+    background-color: rgb(11, 78, 203);
+}
+
+#search, #Add, #create{
+    margin: 0 20px;
+ }
