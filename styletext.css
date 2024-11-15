@@ -1,4 +1,32 @@
+.white {
+    color: white;
+}
+
+.cyan{
+    color: cyan;
+}
+
 h1 {
-    color: black;
-    background-color: grey;
+    background-color: black;
+    line-height: 1;
+    
+}
+
+h2 {
+    color: white;
+    background-color:rgb(74, 1, 74);
+    text-align: center;
+    line-height: 1;
+
+    
+}
+
+h3 {
+    color: rgb(48, 3, 48);
+    background-color: rgb(119, 188, 215);
+    text-align: right;
+    text-decoration: underline;
+    line-height: 1.5;
+    letter-spacing: -1px;
+    
 }
