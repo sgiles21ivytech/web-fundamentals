@@ -1,0 +1,43 @@
+
+.container{
+    text-align: center;
+}
+
+.font {
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+.row-1{
+    background-color: greenyellow;
+    border: lawngreen;
+    height: 150px;
+    margin: 10px 10px;
+    padding: 10px 10px;
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+.row-2{
+    background-color: bisque;
+    border: bisque;
+    height: 150px;
+    margin: 10px 10px;
+    padding: 10px 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.row-3{
+    background-color: brown;
+    border: brown;
+    height: 150px;
+    margin: 10px 10px;
+    padding: 10px 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
