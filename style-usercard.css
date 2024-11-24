@@ -1,0 +1,58 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align:center;
+}
+
+.user-card{
+   width: 300px;
+   margin: 0 auto;
+}
+
+.top-row{
+    border:  1px solid;
+    background-color: rgb(70, 206, 233);
+    height: 100px;
+    width: 400px;
+}
+
+.bottom-row{
+    border: 1px solid;
+    background-color: rgb(249, 247, 245);
+    padding: 20px;
+    width: 360px;
+}
+
+.profile-image {
+    position: relative;
+    top: -50px;
+    left: -30%;
+   
+}
+
+.profile-image img{
+    border-radius: 50%;
+    width: 100px;
+}
+
+.profile-info {
+    text-align: left;
+}
+
+.profile-info img{
+    width: 20px;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+.profile-info a {
+    color: #009688;
+    text-decoration: none;
+}
+
+.map-marker{
+    
+}
+
+.gear{
+    
+}
